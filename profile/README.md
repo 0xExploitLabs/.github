@@ -16,12 +16,6 @@ We publish research built from real captures, and we are building tools that kee
 - **Research.** 17 long-form posts on [0xexploitlabs.org](https://0xexploitlabs.org/blog), each written from real lab captures and checked against primary sources.
 - **One rule behind all of it: nothing invented.** A claim is sourced, or it is marked as not verified. That rule covers this page too.
 
-## In development: Lynxar
-
-Lynxar is our harness for authorized offensive security work.
-It is in private development and not public yet.
-The repository opens with its first public release, and it will be linked here.
-
 > [!NOTE]
 > There are no public tools in this organization yet. When something ships, it shows up here first, with its limits stated.
 
