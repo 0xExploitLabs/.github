@@ -14,7 +14,7 @@ We publish research built from real captures, and we are building tools that kee
 ## What is here today
 
 - **Research.** 17 long-form posts on [0xexploitlabs.org](https://0xexploitlabs.org/blog), each written from real lab captures and checked against primary sources.
-- **One rule behind all of it: nothing invented.** A claim is sourced, or it is marked as not verified. That rule covers this page too.
+- **Every claim is sourced.** Each fact in our research links to where it came from, and anything we could not confirm is labelled as such.
 
 > [!NOTE]
 > There are no public tools in this organization yet. When something ships, it shows up here first, with its limits stated.
