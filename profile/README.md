@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xExploitLabs/.github/main/profile/banner-1f7ae5b4.webp" alt="0xExploitLabs: security research that shows its work" width="100%">
+<img src="https://raw.githubusercontent.com/0xExploitLabs/.github/main/profile/banner-4c00c6aa.webp" alt="0xExploitLabs: security research that shows its work" width="100%">
 
 **[Website](https://0xexploitlabs.org)**&nbsp; · &nbsp;[Research](https://0xexploitlabs.org/blog)&nbsp; · &nbsp;[Security policy](https://0xexploitlabs.org/legal/security)&nbsp; · &nbsp;[Contact](https://0xexploitlabs.org/contact)&nbsp; · &nbsp;[X](https://x.com/0xExploitLabs)&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/company/144596930)
 
