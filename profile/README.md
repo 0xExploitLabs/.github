@@ -1,68 +1,44 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner-d4742cdc.webp" alt="0xExploit Labs — break it before they do" width="100%">
+<img src="https://raw.githubusercontent.com/0xExploitLabs/.github/main/profile/banner-1f7ae5b4.webp" alt="0xExploitLabs: security research that shows its work" width="100%">
 
-**[Website](https://www.0xexploitlabs.org)**&nbsp; · &nbsp;[Security policy](https://www.0xexploitlabs.org/legal/security)&nbsp; · &nbsp;[Contact](https://www.0xexploitlabs.org/contact)&nbsp; · &nbsp;[X](https://x.com/0xExploitLabs)&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/company/144596930)&nbsp; · &nbsp;[Instagram](https://www.instagram.com/0xexploitlabs/)
+**[Website](https://0xexploitlabs.org)**&nbsp; · &nbsp;[Research](https://0xexploitlabs.org/blog)&nbsp; · &nbsp;[Security policy](https://0xexploitlabs.org/legal/security)&nbsp; · &nbsp;[Contact](https://0xexploitlabs.org/contact)&nbsp; · &nbsp;[X](https://x.com/0xExploitLabs)&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/company/144596930)
 
 </div>
 
-We build the offensive security tooling we wanted to use: **open, auditable and free**.
+**Offensive security you can check.**
 
-Recon, scanning and continuous exposure testing that runs on your laptop, in your CI, or on your own box — and never on ours.
+0xExploitLabs is an independent lab for authorized offensive security work.
+We publish research built from real captures, and we are building tools that keep the work in scope and leave evidence that a client, a maintainer or a reviewer can verify.
 
-## The pipeline
+## What is here today
 
-One toolkit covering the whole path from an unknown surface to a result you can act on.
+- **Research.** 17 long-form posts on [0xexploitlabs.org](https://0xexploitlabs.org/blog), each written from real lab captures and checked against primary sources.
+- **One rule behind all of it: nothing invented.** A claim is sourced, or it is marked as not verified. That rule covers this page too.
 
-| Stage | What it does |
-| :-- | :-- |
-| **Discover** | Find the assets that exist before deciding what to test |
-| **Enrich** | Turn a raw host list into something with context attached |
-| **Detect** | Match known-bad conditions against what you found |
-| **Report** | Make the results diffable, routable and readable |
+## In development: Lynxar
 
-## How it is built
-
-- **Open source, always** — MIT licensed, developed in public. Read the code before you point it at your infrastructure.
-- **No agents to deploy** — single static binaries. Nothing is installed on the systems you scan.
-- **Auditable detections** — detection logic is plain YAML in a public repository, not a rule set you are asked to take on faith.
-- **Built for pipelines** — structured JSON from every tool, so results feed dashboards, tickets and alerts without glue code.
-- **Free and unmetered** — no per-asset pricing. Pricing that punishes discovery is pricing that discourages looking.
-
-## Status
+Lynxar is our harness for authorized offensive security work.
+It is in private development and not public yet.
+The repository opens with its first public release, and it will be linked here.
 
 > [!NOTE]
-> **Nothing is published yet.** Repositories go public as they reach a state worth running.
+> There are no public tools in this organization yet. When something ships, it shows up here first, with its limits stated.
 
-No waitlist, no early access — watch this organisation and releases show up here before anywhere else.
-
-We would rather ship one tool that works than announce five that do not.
-
-## Before you run any of this
+## Authorized use only
 
 > [!WARNING]
-> These are offensive security tools. They belong on assets you own, or on assets you have **written authorisation** to assess.
-
-Scanning infrastructure you do not have permission to touch is unlawful in most jurisdictions, and no licence granted here changes that.
-
-## Contributing
-
-- **Found a bug?** Open an issue on the repository it affects.
-- **Written a detection?** Rules are plain YAML — send a pull request.
-- **Found a security issue?** Do not open a public issue. See below.
+> Offensive security work belongs on systems you own, or on systems you have **written authorization** to test.
+> Testing anything else is unlawful in most places, and nothing published here changes that.
 
 ## Reporting a vulnerability
 
-Email **[hello@0xexploitlabs.org](mailto:hello@0xexploitlabs.org)** and we will acknowledge within **72 hours**.
-
-Please do not open a public issue for a security bug — it discloses the problem to everyone before there is a fix to move to.
-
-## Licence
-
-**MIT**, across every repository in this organisation. Commercial use permitted. There is no paid tier holding features back.
+Email **[hello@0xexploitlabs.org](mailto:hello@0xexploitlabs.org)**. We acknowledge reports within **72 hours**.
+Please do not open a public issue for a security bug: it tells everyone about the problem before there is a fix.
+The full policy is at [0xexploitlabs.org/legal/security](https://0xexploitlabs.org/legal/security).
 
 ---
 
 <div align="center">
-<sub><a href="https://www.0xexploitlabs.org">0xexploitlabs.org</a> · <a href="mailto:hello@0xexploitlabs.org">hello@0xexploitlabs.org</a></sub>
+<sub><a href="https://0xexploitlabs.org">0xexploitlabs.org</a> · <a href="mailto:hello@0xexploitlabs.org">hello@0xexploitlabs.org</a></sub>
 </div>
